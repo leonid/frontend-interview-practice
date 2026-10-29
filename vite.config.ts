@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? "/front-end-design/" : "/",
+  base: process.env.GITHUB_ACTIONS ? "/frontend-interview-practice/" : "/",
   build: {
     rollupOptions: {
       output: {

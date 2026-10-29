@@ -90,7 +90,7 @@ The `id` is required and must be unique within its topic. The tags, difficulty, 
 
 ## Publish on GitHub Pages
 
-The GitHub Actions workflow builds and deploys this repository to Pages when changes are pushed to `main`. In the repository settings, enable **Pages** with **GitHub Actions** as the build and deployment source. The app is configured for the `/front-end-design/` project-site path.
+The GitHub Actions workflow builds and deploys this repository to Pages when changes are pushed to `main`. In the repository settings, enable **Pages** with **GitHub Actions** as the build and deployment source. The app is configured for the `/frontend-interview-practice/` project-site path.
 
 ## Content references
 
